@@ -5,6 +5,7 @@ sidebar_position: 1
 # はじめに
 ## これなに？
 大規模工業化 mod gregtech6 の解説サイトです。
+現在制作中
 
 ## gregtech6 について
 GregoriusT 氏によって制作されている、いわゆる工業化 mod と呼ばれるタイプの minecraft 1.7.10 向け mod です。  
